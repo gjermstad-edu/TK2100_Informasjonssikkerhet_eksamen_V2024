@@ -6,4 +6,6 @@
 
 Dette er min (Kenneth Andre Bettum Gjermstad) individuelle besvarelse på eksamen i **TK2100 Informasjonssikkerhet** ved Høyskolen Kristiania våren 2024 (2. semester i utdanningen min).
 
+-----
+
 Foreleser i faget var professor [Debasish Ghose](https://www.linkedin.com/in/debasishghose/).
